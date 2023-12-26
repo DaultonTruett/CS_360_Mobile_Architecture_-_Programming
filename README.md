@@ -1,1 +1,1 @@
-# CS_360_Mobile_Architecture_-_Programming
+# SNHU CS-360: Mobile Architecture & Programming
